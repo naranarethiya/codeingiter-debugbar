@@ -3,6 +3,7 @@
 Displays a debugbar in the browser with information from codeiniter Profiling class.
 
 Displays profiling details in bootstrap tab.
+
 ![Codeigniter Debugbar](https://raw.githubusercontent.com/naranarethiya/codeingiter-debugbar/2de76ec2b7c30ce9246adeaea87510f57becd283/debugbar_sanp.png "Codeigniter Debugbar")
 
 ## Installation
