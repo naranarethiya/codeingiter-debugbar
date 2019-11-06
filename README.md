@@ -1,6 +1,6 @@
 # codeingiter-debugbar
 
-Displays a debugbar in the browser with information from codeiniter Profiling class.
+Displays a debugbar in the browser with information from codeigniter Profiling class.
 
 Displays profiling details in bootstrap tab.
 
